@@ -12,7 +12,7 @@ function App() {
     <div className="tela-inteira">
         <header>
             <h1>LabeTube</h1>
-            <input type="text" placeholder="Busca" id="campoDeBusca"/>
+            <input type="text" placeHolder="Busca" id="campoDeBusca"/>
         </header>
 
         <main>
